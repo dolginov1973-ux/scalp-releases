@@ -1,0 +1,7 @@
+{
+  "version": "1.16.65",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.16.65/BurmaldaScalp-win64.zip",
+  "sha256": "41e4380d03502cae34615e755ac18b0432665a6a272b454b1d7d9845178d0bfc",
+  "notes": "Базовая сборка канала dolginov1973-ux/scalp-releases. Функционал тот же, что в 1.16.65; изменён только адрес автообновления — этот билд обновляется независимо от прежнего канала.",
+  "date": "2026-08-07"
+}
