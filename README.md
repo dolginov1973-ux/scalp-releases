@@ -1,2 +1,2 @@
 # scalp-releases
-Канал обновлений BurmaldaScalp: version.json + релизные сборки
+Канал обновлений LCScalp: version.json + релизные сборки
