@@ -1,7 +1,7 @@
 {
-  "version": "1.32.2",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.32.2/LCScalp-win64.zip",
-  "sha256": "54551dbde4ee59cf4add02301d8c0ddcaea4d19b637155b989ee7176272adda3",
-  "notes": "В шапку окна «Плотности» вернулся выбор звука — общий с окном «Звуки алертов».",
+  "version": "1.32.3",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.32.3/LCScalp-win64.zip",
+  "sha256": "4876add7b25e904d3cf8cc65e5c2fb8badf7613718991a5d6bd229df85331238",
+  "notes": "Кружок плотности показывает ту стену, из-за которой сработал алерт: порог правила плюс ближайшая к цене, а не самая крупная в полосе.",
   "date": "2026-08-10"
 }
