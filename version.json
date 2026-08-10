@@ -1,7 +1,7 @@
 {
-  "version": "1.32.1",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.32.1/LCScalp-win64.zip",
-  "sha256": "22b412ca59dde1e0b0b76ce45a1e6a0b73efea00a228ca742c865961408186dd",
-  "notes": "Серия прокидов рвётся не минутой тишины, а 45 секундами.",
+  "version": "1.32.2",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.32.2/LCScalp-win64.zip",
+  "sha256": "54551dbde4ee59cf4add02301d8c0ddcaea4d19b637155b989ee7176272adda3",
+  "notes": "В шапку окна «Плотности» вернулся выбор звука — общий с окном «Звуки алертов».",
   "date": "2026-08-10"
 }
