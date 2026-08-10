@@ -1,7 +1,7 @@
 {
-  "version": "1.31.8",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.31.8/LCScalp-win64.zip",
-  "sha256": "9691e15fe1a9cd25ca1632cf4fcb95aba090056d664de721434c645504171a2d",
-  "notes": "Алерт плотности получил кружок стороны: зелёный — стена в покупку, красный — в продажу.",
+  "version": "1.31.9",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.31.9/LCScalp-win64.zip",
+  "sha256": "92b940862b1f926fd15a89303defc77810011474ae4c6c2e14bb2dcd71d6ce88",
+  "notes": "Сторона стала параметром правила: у плотностей — колонка «Сторона» в «Выставлении», у прокидов — выбор в строке правила. Вкладка «Параметры» убрана.",
   "date": "2026-08-10"
 }
