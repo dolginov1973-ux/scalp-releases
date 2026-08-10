@@ -1,7 +1,7 @@
 {
-  "version": "1.31.7",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.31.7/LCScalp-win64.zip",
-  "sha256": "476beb1ecbe5188325999cf23f7c52ada04edd650693c6ba610fc6e88c4786ca",
-  "notes": "Громкость в часах теперь действительно работает (слуховая шкала в момент воспроизведения). Плотности: вкладка «Параметры» стала «Выставлением», старая вкладка со стаканом убрана, стороны названы «Обе стороны / Лонг / Шорт».",
+  "version": "1.31.8",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.31.8/LCScalp-win64.zip",
+  "sha256": "9691e15fe1a9cd25ca1632cf4fcb95aba090056d664de721434c645504171a2d",
+  "notes": "Алерт плотности получил кружок стороны: зелёный — стена в покупку, красный — в продажу.",
   "date": "2026-08-10"
 }
