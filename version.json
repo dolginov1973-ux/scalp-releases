@@ -1,7 +1,7 @@
 {
-  "version": "1.31.0",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.31.0/LCScalp-win64.zip",
-  "sha256": "354f70ae3a8d94e3b372f1719a7b13a220367aa0a8f989bdd1e26cffc20a09c9",
-  "notes": "Алерт прокида: счётчик за минуту, кружок направления (зелёный/красный) и время мм:сс.",
+  "version": "1.31.1",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.31.1/LCScalp-win64.zip",
+  "sha256": "bfb9bc148c7f4939005dd87e43a736036bee176dcd69a1b49606d8ade9f21059",
+  "notes": "Алерт прокида: слово buy/sell убрано — направление показывает цвет кружка.",
   "date": "2026-08-10"
 }
