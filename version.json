@@ -1,7 +1,7 @@
 {
-  "version": "1.31.9",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.31.9/LCScalp-win64.zip",
-  "sha256": "92b940862b1f926fd15a89303defc77810011474ae4c6c2e14bb2dcd71d6ce88",
-  "notes": "Сторона стала параметром правила: у плотностей — колонка «Сторона» в «Выставлении», у прокидов — выбор в строке правила. Вкладка «Параметры» убрана.",
+  "version": "1.32.0",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.32.0/LCScalp-win64.zip",
+  "sha256": "b877fbc2e81bafd241572da83414c174d54309cfdd9eaac19a26397c56c914fc",
+  "notes": "Клик по алерту пишет в лог, что ушло в терминал — видно, доходит ли прокид до Vataga/Tiger.",
   "date": "2026-08-10"
 }
