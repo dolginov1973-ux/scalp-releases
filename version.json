@@ -1,7 +1,7 @@
 {
-  "version": "1.31.5",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.31.5/LCScalp-win64.zip",
-  "sha256": "d2f85b94e4987df1e19147b3443bf95d361bdaa871ecba25e40cf53dbcf55f97",
-  "notes": "Серии принтов: галочка «включён» применяется сразу — выключил, и детектор действительно замолчал.",
+  "version": "1.31.6",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.31.6/LCScalp-win64.zip",
+  "sha256": "51deee32de3b724b9d5ec08c3c78563c23b042cc1e991ef19c5d129336def59e",
+  "notes": "Значок обновления встал сразу за подписью «Обновление» и переносится за кнопкой при перестройке меню.",
   "date": "2026-08-10"
 }
