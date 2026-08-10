@@ -1,7 +1,7 @@
 {
-  "version": "1.31.1",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.31.1/LCScalp-win64.zip",
-  "sha256": "bfb9bc148c7f4939005dd87e43a736036bee176dcd69a1b49606d8ade9f21059",
-  "notes": "Алерт прокида: слово buy/sell убрано — направление показывает цвет кружка.",
+  "version": "1.31.2",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.31.2/LCScalp-win64.zip",
+  "sha256": "0968678b7f4c04ac3d3fbf457c30223ca67b8320bef5c2da47d0489117177288",
+  "notes": "Прокид: номер в серии и пауза с прошлого вместо часов. В разделе «Виджет» — выбор размера шрифта.",
   "date": "2026-08-10"
 }
