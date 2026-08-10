@@ -1,7 +1,7 @@
 {
-  "version": "1.31.2",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.31.2/LCScalp-win64.zip",
-  "sha256": "0968678b7f4c04ac3d3fbf457c30223ca67b8320bef5c2da47d0489117177288",
-  "notes": "Прокид: номер в серии и пауза с прошлого вместо часов. В разделе «Виджет» — выбор размера шрифта.",
+  "version": "1.31.3",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.31.3/LCScalp-win64.zip",
+  "sha256": "037762ae7731f16339e6c4b7b7e8a9c2dd586e9ddd4854990f611972c5ded866",
+  "notes": "Раздел «Виджет»: выбор шрифта вынесен в свою строку, подписи выровнены — «Макс. алертов» больше не обрезается.",
   "date": "2026-08-10"
 }
