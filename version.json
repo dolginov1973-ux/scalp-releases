@@ -1,7 +1,7 @@
 {
-  "version": "1.33.0",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.33.0/LCScalp-win64.zip",
-  "sha256": "da2e481a033a7e74e80bfd973f47163c19e35502e0e56bc9ff01d2b0ad877d82",
-  "notes": "Новый раздел «Звуковые алерты»: движение цены проговаривается голосом по своим правилам — биржа, рынок, величина, сторона и фраза вроде «{тикер} заточка».",
+  "version": "1.33.1",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.33.1/LCScalp-win64.zip",
+  "sha256": "38bd7ec6a5e8baa08bbf973ac7ef64dc357967e965d2c7443f0f70bbffec068f",
+  "notes": "Озвучка понимает любой способ записи: «нож», «{} нож» и «{тикер} нож» дают одно и то же.",
   "date": "2026-08-11"
 }
