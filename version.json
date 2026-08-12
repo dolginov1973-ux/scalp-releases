@@ -1,7 +1,7 @@
 {
-  "version": "1.33.1",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.33.1/LCScalp-win64.zip",
-  "sha256": "38bd7ec6a5e8baa08bbf973ac7ef64dc357967e965d2c7443f0f70bbffec068f",
-  "notes": "Озвучка понимает любой способ записи: «нож», «{} нож» и «{тикер} нож» дают одно и то же.",
-  "date": "2026-08-11"
+  "version": "1.33.2",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.33.2/LCScalp-win64.zip",
+  "sha256": "9016f3d18ef630574d19f57d2ec10b6688226c6dd6bd2eb7325fe9ebbb7011ec",
+  "notes": "Окно активации больше не закрывает программу при сбое проверки: показывает причину и пишет её в лог.",
+  "date": "2026-08-12"
 }
