@@ -1,7 +1,7 @@
 {
-  "version": "1.33.2",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.33.2/LCScalp-win64.zip",
-  "sha256": "9016f3d18ef630574d19f57d2ec10b6688226c6dd6bd2eb7325fe9ebbb7011ec",
-  "notes": "Окно активации больше не закрывает программу при сбое проверки: показывает причину и пишет её в лог.",
+  "version": "1.33.3",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.33.3/LCScalp-win64.zip",
+  "sha256": "905b52bc95951161c780269e32b28a6be638d6d15cfc9a87e3b8546b70ddbe31",
+  "notes": "Причина внезапного закрытия теперь пишется в лог: перехват необработанных исключений интерфейса и фоновых потоков.",
   "date": "2026-08-12"
 }
