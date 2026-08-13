@@ -1,7 +1,7 @@
 {
-  "version": "1.36.1",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.36.1/LCScalp-win64.zip",
-  "sha256": "e854f0964f16a67314edc36d3fa510df6573e5473afc10d0fb7dd2eda0b6204a",
-  "notes": "Возвращён звук: winsound в Python не умеет проигрывать из памяти асинхронно, и вчерашняя правка глушила все алерты. Играем файлом, как раньше.",
+  "version": "1.37.0",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.37.0/LCScalp-win64.zip",
+  "sha256": "d726962fc7bd8a5c8f42144a4179d6bd40c4db12363da8f5020653782c3be02c",
+  "notes": "Раздел «Параметры» стал «Настройками» с иконкой шестерёнки и уехал вниз под «Прокси». «Обновление» и «Прокси» выровнялись по остальным и получили подсветку: ядро возвращало им свой стиль, теперь сторож его перекрывает.",
   "date": "2026-08-13"
 }
