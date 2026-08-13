@@ -1,7 +1,7 @@
 {
-  "version": "1.33.3",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.33.3/LCScalp-win64.zip",
-  "sha256": "905b52bc95951161c780269e32b28a6be638d6d15cfc9a87e3b8546b70ddbe31",
-  "notes": "Причина внезапного закрытия теперь пишется в лог: перехват необработанных исключений интерфейса и фоновых потоков.",
-  "date": "2026-08-12"
+  "version": "1.34.0",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.34.0/LCScalp-win64.zip",
+  "sha256": "8f64c4f63eb419c541008067bb64f379dbedf910dafd386509b30c799362b8a1",
+  "notes": "Меню больше не застревает на языке первого запуска, подписи держатся в одну строку. Переключатель «Клик+Автооткрытие» перестал откатываться. В лог пишется отчёт об окружении.",
+  "date": "2026-08-13"
 }
