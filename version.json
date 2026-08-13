@@ -1,7 +1,7 @@
 {
-  "version": "1.36.0",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.36.0/LCScalp-win64.zip",
-  "sha256": "64d91e268b18352f08a50c4e99958ee4c7748db8d6f8171169702bb2c9a1b831",
-  "notes": "Обойдены три дефекта внутри ядра: правила-двойники прокидов схлопываются (второе всё равно не стреляло, а на OKX удваивало объём), звук больше не запускает powershell на каждый алерт, очередь воркера при переполнении отбрасывает вместо остановки всех сокетов.",
+  "version": "1.36.1",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.36.1/LCScalp-win64.zip",
+  "sha256": "e854f0964f16a67314edc36d3fa510df6573e5473afc10d0fb7dd2eda0b6204a",
+  "notes": "Возвращён звук: winsound в Python не умеет проигрывать из памяти асинхронно, и вчерашняя правка глушила все алерты. Играем файлом, как раньше.",
   "date": "2026-08-13"
 }
