@@ -1,7 +1,7 @@
 {
-  "version": "1.34.0",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.34.0/LCScalp-win64.zip",
-  "sha256": "8f64c4f63eb419c541008067bb64f379dbedf910dafd386509b30c799362b8a1",
-  "notes": "Меню больше не застревает на языке первого запуска, подписи держатся в одну строку. Переключатель «Клик+Автооткрытие» перестал откатываться. В лог пишется отчёт об окружении.",
+  "version": "1.35.0",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.35.0/LCScalp-win64.zip",
+  "sha256": "d06316a30f46652c1b8648e6200ab9d99e1117770247ca50acfcf4c5358b14b1",
+  "notes": "Аудит: 29 исправлений. Плотности Binance Alpha заработали, серии принтов не замолкают, озвучка не отстаёт, «Снятие» доходит до ленты. В сборку наконец попали keyboard и mouse — горячие клавиши ожили.",
   "date": "2026-08-13"
 }
