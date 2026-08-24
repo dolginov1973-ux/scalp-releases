@@ -1,7 +1,7 @@
 {
-  "version": "1.39.0",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.39.0/LCScalp-win64.zip",
-  "sha256": "3960ebad0fb285467e47a317c21f099f913da4027fc4daefcafa0eca36d4bf4a",
-  "notes": "Окна ядра и главное меню переведены в общий вид: фиолетовая раскраска снимается сторожем, тема проступает сама. Виджет алертов и часы намеренно не тронуты — они рисуются вручную.",
-  "date": "2026-08-14"
+  "version": "1.39.1",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.39.1/LCScalp-win64.zip",
+  "sha256": "43bd45c525b008226df584acfeacbf90ca7d6bcf5d2c144e51f1efe29c66da50",
+  "notes": "Починен переключатель фьючерс/спот в прокидах: сторож вида снимал с него стиль, которым ядро показывает состояние. Алерт плотности больше не пишет объём меньше порога правила.",
+  "date": "2026-08-24"
 }
