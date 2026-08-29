@@ -1,7 +1,7 @@
 {
-  "version": "1.44.1",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.44.1/LCScalp-win64.zip",
-  "sha256": "d903f5c65359a4144f0a34cbe172aae6658566bc886a941938b245ca539ccd21",
-  "notes": "Проверка обновлений работает, даже когда провайдер блокирует raw.githubusercontent.com: манифест читается через api.github.com, без минутных зависаний.",
+  "version": "1.44.2",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.44.2/LCScalp-win64.zip",
+  "sha256": "85d6a10d565c0c88adcea9b2119e06dfafcc3560aca6bed458ac21ce03901dba",
+  "notes": "Запись экрана: хоткеи сохранения теперь срабатывают при любой раскладке клавиатуры (сравнение по физической клавише, а не по имени); если приложение запущено без прав администратора, а терминал — с ними, об этом пишется в журнал. Запись после сбоя захвата экрана перезапускается сама, буфер сохраняется.",
   "date": "2026-08-29"
 }
