@@ -1,7 +1,7 @@
 {
-  "version": "1.43.3",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.43.3/LCScalp-win64.zip",
-  "sha256": "b3e7fa0cf7a4a4eef73663612bb654c266054b66f7ae0a6998c4a19775d014f2",
-  "notes": "Журнал update.log теперь дублируется рядом с программой (в папке, где LCScalp.exe) — для разбора проблем достаточно прислать его оттуда. Функциональных изменений нет.",
+  "version": "1.44.0",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.44.0/LCScalp-win64.zip",
+  "sha256": "541ebe94c22d03056b73b2ddf197c790c3b2cb11a138215e9cdd965e85b88768",
+  "notes": "Новое: раздел «Запись экрана» — как Replay Buffer в OBS: экран(ы) пишутся в кольцо на GPU-кодеке (NVENC/QuickSync/AMF, профиль как у OBS: 3 Мбит/с, 30 к/с), по клавише сохраняются последние N минут в mp4. Раздел «Кошельки Aster» — сделки выбранных адресов приходят отдельным алертом со своим цветом, звуком и озвучкой; кнопка «Позиции». Ctrl+клик по прокиду Aster находит кошелёк, который его кинул, и берёт его в слежение.",
   "date": "2026-08-29"
 }
