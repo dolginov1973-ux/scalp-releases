@@ -2,6 +2,6 @@
   "version": "1.46.1",
   "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.1/LCScalp-win64.zip",
   "sha256": "d41a12ee6852fb76cda49920c8702d76197e8876e635689b03ab4c23fbc1f317",
-  "notes": "LCScalp 1.46.1",
+  "notes": "Плотности: раздел больше не открывается с пустым полем сверху, у полей в таблице появились отступы, список бирж прокручивается — видны все, а не первые пять.",
   "date": "2026-09-01"
 }
