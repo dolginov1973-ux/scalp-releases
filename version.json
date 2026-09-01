@@ -1,7 +1,7 @@
 {
-  "version": "1.46.2",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.2/LCScalp-win64.zip",
-  "sha256": "109964ddbaf256feddbea2bee641509f94c83b9f286fe2ecb092ed6fad8034d6",
-  "notes": "Исправлено закрытие программы при работе с горячими клавишами. Плотности: раздел открывается без пустого поля сверху, отступы в таблице, прокрутка в списке бирж.",
+  "version": "1.46.3",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.3/LCScalp-win64.zip",
+  "sha256": "7f9df353fe8aa571c229f8fe83ff8a93972e854fe6f3461373d6846ba06b0549",
+  "notes": "LCScalp 1.46.3",
   "date": "2026-09-01"
 }
