@@ -1,7 +1,7 @@
 {
-  "version": "1.45.8",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.45.8/LCScalp-win64.zip",
-  "sha256": "b4753ab8c4ac2b12aea6ff36b96931cd3919960324e90b4d8eeb73dc5dbc21b9",
-  "notes": "Shift+клик по прокиду — следить за чужим роботом: его прокиды помечаются значком со счётчиком, а когда он замолкает, приходит итог. Меню: убрана подсветка последнего открытого раздела.",
+  "version": "1.45.9",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.45.9/LCScalp-win64.zip",
+  "sha256": "07c62235d1d08655f35b1b2ae0bb96f738d8515cc041008aef6818ce0c979991",
+  "notes": "LCScalp 1.45.9",
   "date": "2026-09-01"
 }
