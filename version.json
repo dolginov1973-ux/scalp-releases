@@ -1,7 +1,7 @@
 {
-  "version": "1.45.9",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.45.9/LCScalp-win64.zip",
-  "sha256": "07c62235d1d08655f35b1b2ae0bb96f738d8515cc041008aef6818ce0c979991",
-  "notes": "Прокиды: в алерте показывается крупнейшая сделка окна — видно, чем именно пробило порог. Вкладка «Такты» в разделе прокидов: за какими чужими роботами идёт слежка. Кошельки Aster: кружок алерта теперь показывает сторону сделки, а не цвет кошелька.",
+  "version": "1.46.0",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.0/LCScalp-win64.zip",
+  "sha256": "3eaa725d1fe54eeb9ca3227cf4b37486a6606cb20bf6674ddf29c33d4ac379f8",
+  "notes": "LCScalp 1.46.0",
   "date": "2026-09-01"
 }
