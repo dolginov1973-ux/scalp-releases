@@ -1,7 +1,7 @@
 {
-  "version": "1.46.3",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.3/LCScalp-win64.zip",
-  "sha256": "7f9df353fe8aa571c229f8fe83ff8a93972e854fe6f3461373d6846ba06b0549",
-  "notes": "Плотности: в «Снятии» появился Aster. Горячие клавиши: одиночную клавишу больше не назначить — она срабатывала и при наборе в полях. Робот: сервер и ключи сворачиваются, клавиша назначается правилу.",
+  "version": "1.46.4",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.4/LCScalp-win64.zip",
+  "sha256": "67e86b07c9cb91cb4ec347802ea8f707ebe50ba751c90a0021d07ae16451b44c",
+  "notes": "LCScalp 1.46.4",
   "date": "2026-09-01"
 }
