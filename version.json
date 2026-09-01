@@ -2,6 +2,6 @@
   "version": "1.46.5",
   "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.5/LCScalp-win64.zip",
   "sha256": "5f1bdc17ba6c4b09262e9eac73779e5d33a4ea3e9ffc1bf07aa211fdb4569fae",
-  "notes": "LCScalp 1.46.5",
+  "notes": "Прокиды: объём принта считается серией подряд идущих сделок, а пауза склейки настраивается на вкладке «Такты» — подберите её под свой терминал.",
   "date": "2026-09-01"
 }
