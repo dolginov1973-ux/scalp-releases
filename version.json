@@ -1,7 +1,7 @@
 {
-  "version": "1.46.0",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.0/LCScalp-win64.zip",
-  "sha256": "3eaa725d1fe54eeb9ca3227cf4b37486a6606cb20bf6674ddf29c33d4ac379f8",
-  "notes": "Прокиды: в алерте показывается сама сделка, которой пробило порог, а не сумма за окно. Окно настроек запоминает высоту по разделу. Кошельки Aster: кружок алерта показывает сторону сделки.",
+  "version": "1.46.1",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.1/LCScalp-win64.zip",
+  "sha256": "d41a12ee6852fb76cda49920c8702d76197e8876e635689b03ab4c23fbc1f317",
+  "notes": "LCScalp 1.46.1",
   "date": "2026-09-01"
 }
