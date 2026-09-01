@@ -1,7 +1,7 @@
 {
-  "version": "1.45.6",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.45.6/LCScalp-win64.zip",
-  "sha256": "249bdd78103ca42eded9f301225ec125faf79e07e66e2c9f172d36a657451217",
-  "notes": "Прокиды: несколько правил на один тикер больше не глушат друг друга. Кошельки Aster: выправлен вид таблицы.",
+  "version": "1.45.7",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.45.7/LCScalp-win64.zip",
+  "sha256": "e7a2d226ac83e41154c69ba82b6548ce271e46daff043640acc4bcac099915dd",
+  "notes": "LCScalp 1.45.7",
   "date": "2026-09-01"
 }
