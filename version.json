@@ -1,7 +1,7 @@
 {
-  "version": "1.46.35",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.35/LCScalp-win64.zip",
-  "sha256": "d2ad9a41c9a78a5cbdd0e1ad19bd6c0bc043873627972f05ff3a4f60847881ff",
-  "notes": "Служебное обновление.",
+  "version": "1.46.36",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.36/LCScalp-win64.zip",
+  "sha256": "5b736ccaf7ba09368049343248cf55b3b92378691c1776c71d3da1843c5c115a",
+  "notes": "Правая кнопка по строке ленты копирует тикер, а не значок стороны или букву рынка. После копирования у курсора появляется подсказка «Скопирован тикер …». Пара или база — по выбору в разделе «Ещё».",
   "date": "2026-09-02"
 }
