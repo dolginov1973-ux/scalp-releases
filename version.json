@@ -1,7 +1,7 @@
 {
-  "version": "1.46.23",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.23/LCScalp-win64.zip",
-  "sha256": "378e3a69490717ae9f50e49d9f62bfac4296d97010e8b070c59c2e49e67bb22f",
-  "notes": "Служебные исправления надёжности.",
+  "version": "1.46.24",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.24/LCScalp-win64.zip",
+  "sha256": "e4cb319a91cfb25ed1c5a6322d46101f815544b9460bcd5150b3f15d68ae9a43",
+  "notes": "Исправлено падение программы в момент установки обновления: завершение проверки версии удаляло поток загрузки на ходу, и Qt аварийно закрывала программу. Сообщения Qt об ошибках теперь попадают в logs.txt со стеком — такие случаи будут называть себя сами.",
   "date": "2026-09-02"
 }
