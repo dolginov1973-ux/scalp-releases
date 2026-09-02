@@ -1,7 +1,7 @@
 {
-  "version": "1.46.34",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.34/LCScalp-win64.zip",
-  "sha256": "3c658ce5fe791add4395e866d3ef5d02ca33389a3c524d2066c116da7c5afc0d",
-  "notes": "Строка прокида показывает размер всего пузыря, как терминал, а не сумму на момент срабатывания: раньше при нарезанном приказе писалось 2k вместо 5k. Потолок объёма правила теперь тоже проверяется по итогу пузыря.",
+  "version": "1.46.35",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.35/LCScalp-win64.zip",
+  "sha256": "d2ad9a41c9a78a5cbdd0e1ad19bd6c0bc043873627972f05ff3a4f60847881ff",
+  "notes": "Служебное обновление.",
   "date": "2026-09-02"
 }
