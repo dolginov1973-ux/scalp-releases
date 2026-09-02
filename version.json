@@ -1,7 +1,7 @@
 {
-  "version": "1.46.32",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.32/LCScalp-win64.zip",
-  "sha256": "5d0080fee1c49ee7f942ac0747981f48a1af4a8ea491d96cd7c99b138ddc44eb",
-  "notes": "Служебное обновление.",
+  "version": "1.46.33",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.33/LCScalp-win64.zip",
+  "sha256": "07b9447e0389dbec76e25b5616b7d446d8e5fd99908022082d401479b24d9bc1",
+  "notes": "Окно настроек: если растянуть его за угол, раздел получает всю добавленную высоту — раньше низ окна оставался пустым, а содержимое обрезалось.",
   "date": "2026-09-02"
 }
