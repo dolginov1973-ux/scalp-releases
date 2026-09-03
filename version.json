@@ -1,7 +1,7 @@
 {
-  "version": "1.46.41",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.41/LCScalp-win64.zip",
-  "sha256": "19467aa04c91ef94e87cc428c3ac89859accccbf8c2b70b01f9864ef6610edf6",
-  "notes": "Bitget: сделки из пачки биржи больше не теряются — прокиды считают все принты (раньше из пачки учитывалась только первая сделка, и пузырь недобирал до порога). Пузырь закрывается после алерта: догнавшая сделка не пропадает.",
+  "version": "1.46.42",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.42/LCScalp-win64.zip",
+  "sha256": "0965215f77c28537c21e9c546966f89da66a6a3b062765f061dc6a7f9732b4f1",
+  "notes": "Проверены все биржи прокидов на потерю сделок в пачках. MEXC (фьючерсы), Hyperliquid и Lighter присылают сделки в пачке не по времени — склейка теперь считает паузу от самой поздней сделки пузыря. Gate, Bybit, OKX, KuCoin, Binance, Aster отдают сделки по одной и по порядку — там потерь не было.",
   "date": "2026-09-03"
 }
