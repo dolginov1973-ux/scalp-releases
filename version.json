@@ -1,7 +1,7 @@
 {
-  "version": "1.46.38",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.38/LCScalp-win64.zip",
-  "sha256": "53616d8765df950e3b1237ef6f18c2d39d9012e1d8e472ea48ab604afba2c8f4",
-  "notes": "Служебное обновление.",
-  "date": "2026-09-02"
+  "version": "1.46.39",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.39/LCScalp-win64.zip",
+  "sha256": "47026a921b8977d67908b08236b107bb5069752ed710b5525194cf1b57bbff1f",
+  "notes": "Запись экрана: если захват через видеокарту не запустился и запись пошла через GDI, курсор больше не мигает (в запись он в этом режиме не попадает), а через 10 минут запись сама пробует вернуться на захват через видеокарту. В журнале теперь видно, каким способом идёт захват.",
+  "date": "2026-09-03"
 }
