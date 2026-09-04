@@ -1,7 +1,7 @@
 {
-  "version": "1.46.43",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.43/LCScalp-win64.zip",
-  "sha256": "24f5624c629aa0e1034438f0c787b1b3c847ec11a57051c150f0a0391d4d9501",
-  "notes": "Плотности: правила сохраняются сами — после «Добавить», удаления или правки полей ничего нажимать не нужно, надпись «есть несохранённые изменения» убрана (внутри окна настроек кнопки «Сохранить» у раздела не было).",
+  "version": "1.46.44",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.44/LCScalp-win64.zip",
+  "sha256": "3ce333f7c71ce07fea8f43f068ea8bd373845fdc2d105c3f93c1fd0c6ec0a75c",
+  "notes": "Служебное обновление.",
   "date": "2026-09-04"
 }
