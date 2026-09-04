@@ -1,7 +1,7 @@
 {
-  "version": "1.46.46",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.46/LCScalp-win64.zip",
-  "sha256": "1e2fad036e4df7113a22f904c8b4ab09b1fb72bf826cde179e8ceb918ef33d13",
-  "notes": "Плотности: после «Добавить» и правок окно настроек остаётся на разделе — запись больше не идёт через «Сохранить и закрыть».",
+  "version": "1.46.47",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.47/LCScalp-win64.zip",
+  "sha256": "b18302e42b868c5717e5b25561e82c951fa49d8753e7a1b62744758d60e2d91e",
+  "notes": "Служебное обновление.",
   "date": "2026-09-04"
 }
