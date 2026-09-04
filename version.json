@@ -1,7 +1,7 @@
 {
-  "version": "1.46.57",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.57/LCScalp-win64.zip",
-  "sha256": "56fe80b0753053b6f40d8d12de7e67bf3b20fc1b5db6a5f98c3d5e1050223f65",
-  "notes": "Серии принтов считают принт тем же законом, что лента: при источнике Tiger один принт — одно сообщение биржи, соседние сообщения в пределах периода вместе, на Binance и Aster уровни приказа держит одинаковая метка.",
+  "version": "1.46.58",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.58/LCScalp-win64.zip",
+  "sha256": "a554c30d6ed010468f201009c472c66a8a2520591624275aa9f2253f42347cd3",
+  "notes": "Плотности: Binance Alpha в разделе «Снятие»; уровень за краем стакана больше не считается снятым. Служебные улучшения.",
   "date": "2026-09-04"
 }
