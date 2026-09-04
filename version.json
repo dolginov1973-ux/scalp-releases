@@ -1,7 +1,7 @@
 {
-  "version": "1.46.55",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.55/LCScalp-win64.zip",
-  "sha256": "b3491f1316cddb350f18a17f56d759c5949378b31837be7c6d0eeba7f9538b76",
-  "notes": "Агрегация, источник Tiger: соседние сообщения биржи, пришедшие в пределах периода, тоже склеиваются — приказ на Binance и Aster, разложенный биржей по уровням в отдельные сообщения, снова один принт, как в Tiger.",
+  "version": "1.46.56",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.56/LCScalp-win64.zip",
+  "sha256": "cf8a956365921d7af07fb7a9f8cda79ea6291f1a0e99ddac1d2d67969ef8939e",
+  "notes": "Агрегация, источник Tiger: на Binance и Aster уровни одного приказа держатся вместе и по одинаковой метке времени биржи — принт не рвётся, если воркер обработал соседние сообщения с задержкой.",
   "date": "2026-09-04"
 }
