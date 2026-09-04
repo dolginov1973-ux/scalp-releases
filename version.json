@@ -1,7 +1,7 @@
 {
-  "version": "1.46.44",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.44/LCScalp-win64.zip",
-  "sha256": "3ce333f7c71ce07fea8f43f068ea8bd373845fdc2d105c3f93c1fd0c6ec0a75c",
-  "notes": "Служебное обновление.",
+  "version": "1.46.45",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.45/LCScalp-win64.zip",
+  "sha256": "13be50f2c65f2720da0ae9a517b21486e434749142ad66beadef2a8c166e590b",
+  "notes": "Прокиды: объём в строке ленты с десятыми — 2.3k или 2.7k вместо 2k (до 100k, дальше целые тысячи).",
   "date": "2026-09-04"
 }
