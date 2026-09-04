@@ -1,7 +1,7 @@
 {
-  "version": "1.46.47",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.47/LCScalp-win64.zip",
-  "sha256": "b18302e42b868c5717e5b25561e82c951fa49d8753e7a1b62744758d60e2d91e",
-  "notes": "Служебное обновление.",
+  "version": "1.46.48",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.48/LCScalp-win64.zip",
+  "sha256": "f6245036753d0f1179abd91a8d5c0b8d9f0c227ea08433325928e3add3c06e20",
+  "notes": "Серии принтов: плитка в меню снова открывает раздел, а не справку о командных алертах — при любом порядке действий (смена языка, «Назад», повторное открытие). У пунктов, открывающих отдельное окно, стрелка ↗.",
   "date": "2026-09-04"
 }
