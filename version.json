@@ -1,7 +1,7 @@
 {
-  "version": "1.46.49",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.49/LCScalp-win64.zip",
-  "sha256": "94cb76397bdd76c081ef930943c4727c06f60236b8cac09d322ffceefdbec63c",
-  "notes": "Клик по прокиду ETH, BTC и BNB снова открывает стакан в терминале — тикер уходил без USDT. Двойной правый клик по алерту: меню — скопировать тикер или добавить в чёрный список именно эту биржу и этот тикер; в «Чёрном списке» новый раздел «По биржам».",
+  "version": "1.46.50",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.50/LCScalp-win64.zip",
+  "sha256": "941d373d843c429a382d056d893d1234be666e6848e16e32bb37818ff9fb74df",
+  "notes": "Служебное обновление.",
   "date": "2026-09-04"
 }
