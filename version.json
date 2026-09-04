@@ -1,7 +1,7 @@
 {
-  "version": "1.46.62",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.62/LCScalp-win64.zip",
-  "sha256": "30225a1d5e82180cab6c8a2638c107efe861252cd6ae119955f885229725be9f",
-  "notes": "Прокиды: на Gate куски одного приказа с метками биржи ближе 5 мс собираются в один принт (как в Tiger).",
+  "version": "1.46.63",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.63/LCScalp-win64.zip",
+  "sha256": "f3d0768a176a87849de21e787322658633c122bbbf57449ed9e2c20ee55d0ffb",
+  "notes": "Служебное обновление.",
   "date": "2026-09-04"
 }
