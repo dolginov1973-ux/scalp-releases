@@ -1,7 +1,7 @@
 {
-  "version": "1.46.59",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.59/LCScalp-win64.zip",
-  "sha256": "2d96d507c09c988f685d1d55b92af7e4bde123d75771a801da78c22d0b7cc5ce",
-  "notes": "Прокиды: на фьючерсах Gate сделки одного приказа, приходящие отдельными сообщениями, собираются в один принт (как в Tiger).",
+  "version": "1.46.60",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.60/LCScalp-win64.zip",
+  "sha256": "2e6d9d6cfcf7abb82cf454185d391b1ec2b0bcafb8d0de7af3f69dc02a851995",
+  "notes": "Служебное обновление.",
   "date": "2026-09-04"
 }
