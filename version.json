@@ -1,7 +1,7 @@
 {
-  "version": "1.46.58",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.58/LCScalp-win64.zip",
-  "sha256": "a554c30d6ed010468f201009c472c66a8a2520591624275aa9f2253f42347cd3",
-  "notes": "Плотности: Binance Alpha в разделе «Снятие»; уровень за краем стакана больше не считается снятым. Служебные улучшения.",
+  "version": "1.46.59",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.59/LCScalp-win64.zip",
+  "sha256": "2d96d507c09c988f685d1d55b92af7e4bde123d75771a801da78c22d0b7cc5ce",
+  "notes": "Прокиды: на фьючерсах Gate сделки одного приказа, приходящие отдельными сообщениями, собираются в один принт (как в Tiger).",
   "date": "2026-09-04"
 }
