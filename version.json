@@ -1,7 +1,7 @@
 {
-  "version": "1.46.51",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.51/LCScalp-win64.zip",
-  "sha256": "efd51606a19ae4d992f2a417574df232b02058a582e0678744450e8fbc736f65",
-  "notes": "Служебное обновление.",
+  "version": "1.46.52",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.52/LCScalp-win64.zip",
+  "sha256": "4ec91b13cc9bbcdf73708676dd2d8ec81cbc717e5e4bb8d434549e648ed92832",
+  "notes": "Агрегация: период склейки принтов можно брать из терминала на этом компьютере — переключатель «Своя / Tiger / Ватага». Tiger даёт один период на все биржи, Ватага — свой на каждую и «без склейки» там, где она у неё выключена. Лента и серии принтов считают ровно как терминал.",
   "date": "2026-09-04"
 }
