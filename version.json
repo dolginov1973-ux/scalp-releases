@@ -1,7 +1,7 @@
 {
-  "version": "1.46.63",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.63/LCScalp-win64.zip",
-  "sha256": "f3d0768a176a87849de21e787322658633c122bbbf57449ed9e2c20ee55d0ffb",
-  "notes": "Служебное обновление.",
+  "version": "1.46.64",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.64/LCScalp-win64.zip",
+  "sha256": "785e394ed2aaa2d1715748447df536c62f5de8520f721261d27a381085d617a0",
+  "notes": "Прокиды: на Gate куски одного приказа склеиваются, пока цена идёт в одну сторону — чужие приказы в ту же миллисекунду больше не слипаются. Звуковые алерты: накопившиеся фразы произносятся одним предложением, важное впереди, ничего не теряется.",
   "date": "2026-09-04"
 }
