@@ -1,7 +1,7 @@
 {
-  "version": "1.46.67",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.67/LCScalp-win64.zip",
-  "sha256": "828aaa6277ec9a0e6a4a21bd5e044739e50a6c85f347bea57ad615bb36c48a7e",
-  "notes": "Лента прокидов, режим Tiger: сообщения с разными метками биржи, пришедшие одним куском, больше не склеиваются в один принт — на споте Binance (HEMI) это давало алерты без принта.",
+  "version": "1.46.68",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.68/LCScalp-win64.zip",
+  "sha256": "24b0eaa0a9728b4766fcb1bbe13ac9f2e6a5a037698afa66bd5d4ceb6ad6868e",
+  "notes": "Служебное обновление.",
   "date": "2026-09-05"
 }
