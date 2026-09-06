@@ -1,7 +1,7 @@
 {
-  "version": "1.46.72",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.72/LCScalp-win64.zip",
-  "sha256": "67c3b35eec6d18deb498af9e37da7012b755b6d1667d48ad68e704f281051eea",
-  "notes": "Звуки алертов: свой звук на тикер для спец-алертов и звук по силе движения для ценовых алертов — в окне «Звуки алертов». Раздел «Кошельки Aster» убран.",
+  "version": "1.46.73",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.73/LCScalp-win64.zip",
+  "sha256": "f7a6493c1c09910e53caca91388eca260c3b504a89d07944749c276219da5d7d",
+  "notes": "Серии принтов: клик по тикеру в истории открывает его в терминале, как клик по алерту.",
   "date": "2026-09-06"
 }
