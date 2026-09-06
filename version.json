@@ -1,7 +1,7 @@
 {
-  "version": "1.46.70",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.70/LCScalp-win64.zip",
-  "sha256": "d19b99fe0babd0147891fc61e4d0567dacc2902f6a874d6d6142b56069499797",
-  "notes": "Служебное обновление.",
-  "date": "2026-09-05"
+  "version": "1.46.71",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.71/LCScalp-win64.zip",
+  "sha256": "094eea5cd090dcf9777a159acf09f2f7aea0df9412b980c3e83d41d44bb83257",
+  "notes": "Binance Alpha: сторона принта теперь определяется по стакану — раньше все принты Alpha выходили покупками. Сторож воркеров: прокиды и плотности, не стартовавшие при автозапуске вместе с Windows, поднимаются сами, без перезапуска программы.",
+  "date": "2026-09-06"
 }
