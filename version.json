@@ -1,7 +1,7 @@
 {
-  "version": "1.46.75",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.75/LCScalp-win64.zip",
-  "sha256": "04cf14a9ff9e3e5c279cc35042046d10d3748a780c76a43439aede3bda8d8168",
-  "notes": "Служебное обновление.",
+  "version": "1.46.76",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.76/LCScalp-win64.zip",
+  "sha256": "40f5632ad9b52357ce3afb88de6ab8e65c3c5940b2a68213407c8f807370462b",
+  "notes": "Запись экрана: выбор захвата — видеокарта или процессор (GDI, щадящий режим, если при записи гаснут экраны), и клавиша паузы записи на всех экранах.",
   "date": "2026-09-07"
 }
