@@ -1,7 +1,7 @@
 {
-  "version": "1.46.76",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.76/LCScalp-win64.zip",
-  "sha256": "40f5632ad9b52357ce3afb88de6ab8e65c3c5940b2a68213407c8f807370462b",
-  "notes": "Запись экрана: выбор захвата — видеокарта или процессор (GDI, щадящий режим, если при записи гаснут экраны), и клавиша паузы записи на всех экранах.",
+  "version": "1.46.77",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.77/LCScalp-win64.zip",
+  "sha256": "86f1c4916459a055e379d0b1159c626a3c810e3124cd43d083cdc5424813fdf3",
+  "notes": "Bybit спот: сделки одного приказа с одной меткой времени, которые биржа разбивает на несколько сообщений, теперь склеиваются в один принт — как в Tiger.",
   "date": "2026-09-07"
 }
