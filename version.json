@@ -1,7 +1,7 @@
 {
-  "version": "1.46.74",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.74/LCScalp-win64.zip",
-  "sha256": "ec0266137c8e28462536398c77c9b8f3d2a39009e20bf5196d600b541e56cde0",
-  "notes": "Прокиды: на одну монету можно завести несколько правил с разными диапазонами объёма, например 2–3k и 10–11k. Лента: встречная сделка закрывает принт другой стороны — крупные принты на спотах больше не слипаются. Скринер NATR: длинная строка состояния не раздвигает окно.",
+  "version": "1.46.75",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.75/LCScalp-win64.zip",
+  "sha256": "04cf14a9ff9e3e5c279cc35042046d10d3748a780c76a43439aede3bda8d8168",
+  "notes": "Служебное обновление.",
   "date": "2026-09-07"
 }
