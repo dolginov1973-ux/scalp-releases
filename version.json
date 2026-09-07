@@ -1,7 +1,7 @@
 {
-  "version": "1.46.78",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.78/LCScalp-win64.zip",
-  "sha256": "965f7e6319a0d5884ad19de7af1e7fd61a0a64a3f424a1ea498d62ea64eaa3db",
-  "notes": "Служебное обновление.",
+  "version": "1.46.79",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.79/LCScalp-win64.zip",
+  "sha256": "a81259a76dcc6bc4a423da50ffba1c6a5e004e1adf097608e093008c330d86f8",
+  "notes": "Лента принтов: встречная сделка внутри той же миллисекунды больше не разрезает принт — как в ленте сделок Tiger. Период склейки 0 во вкладке «Агрегация» теперь везде значит «только сделки с одной меткой биржи», то есть принты один в один с окном «Лента сделок» Tiger.",
   "date": "2026-09-07"
 }
