@@ -1,7 +1,7 @@
 {
-  "version": "1.46.82",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.82/LCScalp-win64.zip",
-  "sha256": "ebb0af72ab6df0b48253ec0c1d4c5296f77caee5d915b7a002bc9072092a71d5",
-  "notes": "Склейка принтов по умолчанию теперь 0: в один принт идут только сделки с одной меткой времени биржи — ровно как в окне «Лента сделок» Tiger. Прежнее поведение возвращается своим периодом во вкладке «Агрегация».",
-  "date": "2026-09-07"
+  "version": "1.46.83",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.83/LCScalp-win64.zip",
+  "sha256": "536d8ae5259805f1109a6d94de4325dd942330b0c2153cbe72f4668899056ec8",
+  "notes": "Служебное обновление.",
+  "date": "2026-09-08"
 }
