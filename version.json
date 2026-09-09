@@ -1,7 +1,7 @@
 {
-  "version": "1.46.89",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.89/LCScalp-win64.zip",
-  "sha256": "1cc89400da15c454de73163246a432ed2af5c77711f06e50425eaee811d59833",
-  "notes": "Исправлена ошибка запуска QtWidgets после обновления. Устранён конфликт библиотек Windows. Включены исправления агрегации прокидов в режиме Tiger и стрелок сворачивания.",
+  "version": "1.46.90",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.90/LCScalp-win64.zip",
+  "sha256": "e97c51acf69b4b0189c209525b713c5c8d909a377f5c95fc893be77c25bf71e8",
+  "notes": "Оптимизировано повторное использование соединений Binance. Карточка обновления остаётся доступной во время загрузки и показывает ход установки. Сохранены исправления запуска и агрегации Tiger.",
   "date": "2026-09-09"
 }
