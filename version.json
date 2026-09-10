@@ -1,7 +1,7 @@
 {
-  "version": "1.46.93",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.93/LCScalp-win64.zip",
-  "sha256": "f1119b753ba678c530bafd36309c04675155a44c62cb9400518bba264cf84b2c",
-  "notes": "Улучшены горячие клавиши и отображение состояния элементов интерфейса.",
+  "version": "1.46.94",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.94/LCScalp-win64.zip",
+  "sha256": "e94b06a22bf884cf3515221cf45611f2a3e234a32c843f9802ba8e999363c48e",
+  "notes": "Исправлены подсказки тикеров и ввод в русской раскладке. Уточнены подписи элементов интерфейса.",
   "date": "2026-09-10"
 }
