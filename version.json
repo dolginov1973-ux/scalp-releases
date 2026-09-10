@@ -1,7 +1,7 @@
 {
-  "version": "1.46.92",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.92/LCScalp-win64.zip",
-  "sha256": "9b2ae410aa79adc6970b2ec5542fee6d53e54d693523cdc73a08e6ae18c5f879",
-  "notes": "Упрощено расположение настроек и журнала. Улучшено сохранение параметров и отображение состояния. Сохранены исправления обновлений, горячих клавиш и фона уведомлений.",
+  "version": "1.46.93",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.93/LCScalp-win64.zip",
+  "sha256": "f1119b753ba678c530bafd36309c04675155a44c62cb9400518bba264cf84b2c",
+  "notes": "Улучшены горячие клавиши и отображение состояния элементов интерфейса.",
   "date": "2026-09-10"
 }
