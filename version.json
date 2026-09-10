@@ -1,7 +1,7 @@
 {
-  "version": "1.46.96",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.96/LCScalp-win64.zip",
-  "sha256": "45da2ecbc6d41b50c562fcbb280e40f2a4b1de9060238b8d33a66f30f1cebff3",
-  "notes": "Оптимизировано обновление таблицы истории. Добавлены исключения и разворачивание таблицы. Длинные уведомления стали компактнее.",
+  "version": "1.46.97",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.97/LCScalp-win64.zip",
+  "sha256": "2e764ea7ba37bb6fd13fe0d6c81ace646cd24a953df9a5d075111801e2e69b79",
+  "notes": "Исправлено отображение выбранных бирж. Расширен список источников данных. Таблица использует доступную высоту окна. Улучшена компоновка настроек.",
   "date": "2026-09-10"
 }
