@@ -1,7 +1,7 @@
 {
-  "version": "1.46.97",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.97/LCScalp-win64.zip",
-  "sha256": "2e764ea7ba37bb6fd13fe0d6c81ace646cd24a953df9a5d075111801e2e69b79",
-  "notes": "Исправлено отображение выбранных бирж. Расширен список источников данных. Таблица использует доступную высоту окна. Улучшена компоновка настроек.",
+  "version": "1.46.98",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.98/LCScalp-win64.zip",
+  "sha256": "426dd11a2368078b7c97c6bfaecadbd442ac462215ce40fcc9b1145dd6ce920a",
+  "notes": "Фьючерсные алерты имеют приоритет над спотовыми дубликатами той же монеты на той же бирже. Улучшена обработка данных.",
   "date": "2026-09-10"
 }
