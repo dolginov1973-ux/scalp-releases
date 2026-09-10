@@ -1,7 +1,7 @@
 {
-  "version": "1.46.95",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.95/LCScalp-win64.zip",
-  "sha256": "3137278b2bb02cfc2cc300e0dee293014a6d708a4dd1db89666ecd0ec30a79d0",
-  "notes": "Исправлено применение параметров. Улучшены подтверждения сохранения и отображение ошибок загрузки.",
+  "version": "1.46.96",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.96/LCScalp-win64.zip",
+  "sha256": "45da2ecbc6d41b50c562fcbb280e40f2a4b1de9060238b8d33a66f30f1cebff3",
+  "notes": "Оптимизировано обновление таблицы истории. Добавлены исключения и разворачивание таблицы. Длинные уведомления стали компактнее.",
   "date": "2026-09-10"
 }
