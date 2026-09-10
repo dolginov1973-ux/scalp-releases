@@ -1,7 +1,7 @@
 {
-  "version": "1.46.99",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.99/LCScalp-win64.zip",
-  "sha256": "1c9bf7a1980ae043d485011db4a0cbff99d9279129d301473b50b0cb99d48e82",
-  "notes": "Улучшены диагностика и отображение журнала событий.",
+  "version": "1.46.100",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.100/LCScalp-win64.zip",
+  "sha256": "27bbc264b89d056cc4c0218f4c5fecbeee57370044ca13e0528f6e25ff4bd444",
+  "notes": "Улучшены быстродействие, обработка событий и стабильность приложения.",
   "date": "2026-09-10"
 }
