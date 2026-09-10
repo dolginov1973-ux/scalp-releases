@@ -1,7 +1,7 @@
 {
-  "version": "1.46.94",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.94/LCScalp-win64.zip",
-  "sha256": "e94b06a22bf884cf3515221cf45611f2a3e234a32c843f9802ba8e999363c48e",
-  "notes": "Исправлены подсказки тикеров и ввод в русской раскладке. Уточнены подписи элементов интерфейса.",
+  "version": "1.46.95",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.95/LCScalp-win64.zip",
+  "sha256": "3137278b2bb02cfc2cc300e0dee293014a6d708a4dd1db89666ecd0ec30a79d0",
+  "notes": "Исправлено применение параметров. Улучшены подтверждения сохранения и отображение ошибок загрузки.",
   "date": "2026-09-10"
 }
