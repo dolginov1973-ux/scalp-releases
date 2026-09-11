@@ -1,7 +1,7 @@
 {
-  "version": "1.46.101",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.101/LCScalp-win64.zip",
-  "sha256": "f2377b3e5b24ccc3a44e6e17eb1c7a61fbc5e0bf1f0430dc1a628710593f7c0b",
-  "notes": "Улучшены настройки, управление окнами и обработка событий.",
+  "version": "1.46.102",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.102/LCScalp-win64.zip",
+  "sha256": "0548e20595e8d3dcae6703529bb6fe1049368b17004da49d0e585bedfd072018",
+  "notes": "Добавлено раздельное включение спота и фьючерсов в алертах. Улучшена обработка повторных уведомлений.",
   "date": "2026-09-11"
 }
