@@ -1,7 +1,7 @@
 {
-  "version": "1.46.103",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.103/LCScalp-win64.zip",
-  "sha256": "d063e4ad4f06dac8c2091a41a436fccefe709425e34734f3ce1d23aa5fc52141",
-  "notes": "Добавлено удаление лишних групп в настройках терминалов.",
+  "version": "1.46.104",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.104/LCScalp-win64.zip",
+  "sha256": "06faa666c691be33608d7dbd50727498c4a3ead1f2450c3c0a48a04225143fa1",
+  "notes": "Улучшены настройки подключений и обработка операций.",
   "date": "2026-09-11"
 }
