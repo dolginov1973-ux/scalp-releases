@@ -1,7 +1,7 @@
 {
-  "version": "1.46.105",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.105/LCScalp-win64.zip",
-  "sha256": "e327489539c4618cff08566038abac08942c62ef5abdeaef1af392af0d67aa5f",
-  "notes": "Исправлен автоматический перезапуск при обновлении. Улучшены настройки интерфейса.",
+  "version": "1.46.107",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.107/LCScalp-win64.zip",
+  "sha256": "34a3a778fa0696a367d4932972ee3807430f4e0200e34195e2a446ab4a80f00b",
+  "notes": "Улучшена подготовка подключений и стабильность работы.",
   "date": "2026-09-11"
 }
