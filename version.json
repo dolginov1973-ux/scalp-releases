@@ -1,7 +1,7 @@
 {
-  "version": "1.46.108",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.108/LCScalp-win64.zip",
-  "sha256": "c05584b5f3846f990a2fbd4a49fbc5304b1a6c2c596aabe35c645986c8a18977",
-  "notes": "Исправлена установка обновлений. Добавлена сортировка таблиц, улучшена стабильность записи экрана.",
+  "version": "1.46.109",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.109/LCScalp-win64.zip",
+  "sha256": "042116fa3459cd76006dde48ae5dd36c3cdf875f390bf3648aac22226f3d39b6",
+  "notes": "Исправлена фильтрация направления алертов для тикеров с нелатинскими названиями. Исправлена установка обновлений и добавлена сортировка таблиц.",
   "date": "2026-09-12"
 }
