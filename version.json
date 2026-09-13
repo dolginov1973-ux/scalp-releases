@@ -1,7 +1,7 @@
 {
-  "version": "1.46.114",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.114/LCScalp-win64.zip",
-  "sha256": "96a4d2fad6283b67fd2c4149c95a2362e453c17f4f815c8aded5bcc1314046a1",
-  "notes": "Добавлен выбор отдельных тикеров для звуковых алертов и подсказки при вводе.",
+  "version": "1.46.115",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.115/LCScalp-win64.zip",
+  "sha256": "4541397598b15abef76f66b54fe98a7032c8e69ccfe60f6152f2265d717eee30",
+  "notes": "Добавлено копирование тикера по правой кнопке мыши в скринере NATR.",
   "date": "2026-09-13"
 }
