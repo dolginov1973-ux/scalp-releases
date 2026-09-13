@@ -1,7 +1,7 @@
 {
-  "version": "1.46.116",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.116/LCScalp-win64.zip",
-  "sha256": "04be2a5a8fc0ca1084b20dba8d18666c07506c0f5bff3c39116a90c77fb5647e",
-  "notes": "Улучшена актуальность рыночных данных и устойчивость подключения.",
+  "version": "1.46.117",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.117/LCScalp-win64.zip",
+  "sha256": "40307eed77495a16f695330418eaa1593d516117430b94b7591945f88c56c53e",
+  "notes": "Улучшены настройки и диагностика.",
   "date": "2026-09-13"
 }
