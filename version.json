@@ -1,7 +1,7 @@
 {
-  "version": "1.46.113",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.113/LCScalp-win64.zip",
-  "sha256": "6294ed52b22b9813cfd658a197acdc5776f1effc68442ee660858b21fc534bc5",
-  "notes": "Упрощены настройки агрегации и отображение уведомлений. Исправлено распознавание отдельных тикеров.",
+  "version": "1.46.114",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.114/LCScalp-win64.zip",
+  "sha256": "96a4d2fad6283b67fd2c4149c95a2362e453c17f4f815c8aded5bcc1314046a1",
+  "notes": "Добавлен выбор отдельных тикеров для звуковых алертов и подсказки при вводе.",
   "date": "2026-09-13"
 }
