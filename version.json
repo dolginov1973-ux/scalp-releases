@@ -1,7 +1,7 @@
 {
-  "version": "1.46.109",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.109/LCScalp-win64.zip",
-  "sha256": "042116fa3459cd76006dde48ae5dd36c3cdf875f390bf3648aac22226f3d39b6",
-  "notes": "Исправлена фильтрация направления алертов для тикеров с нелатинскими названиями. Исправлена установка обновлений и добавлена сортировка таблиц.",
-  "date": "2026-09-12"
+  "version": "1.46.110",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.110/LCScalp-win64.zip",
+  "sha256": "feddabf5ac1c85b3f6d4e295b4404106f3a409d6af8359bb544d58f2a205d6f6",
+  "notes": "Повышена отзывчивость и стабильность соединений. Исправлена точность таймеров.",
+  "date": "2026-09-13"
 }
