@@ -1,7 +1,7 @@
 {
-  "version": "1.46.115",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.115/LCScalp-win64.zip",
-  "sha256": "4541397598b15abef76f66b54fe98a7032c8e69ccfe60f6152f2265d717eee30",
-  "notes": "Добавлено копирование тикера по правой кнопке мыши в скринере NATR.",
+  "version": "1.46.116",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.116/LCScalp-win64.zip",
+  "sha256": "04be2a5a8fc0ca1084b20dba8d18666c07506c0f5bff3c39116a90c77fb5647e",
+  "notes": "Улучшена актуальность рыночных данных и устойчивость подключения.",
   "date": "2026-09-13"
 }
