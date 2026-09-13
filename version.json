@@ -1,7 +1,7 @@
 {
-  "version": "1.46.110",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.110/LCScalp-win64.zip",
-  "sha256": "feddabf5ac1c85b3f6d4e295b4404106f3a409d6af8359bb544d58f2a205d6f6",
-  "notes": "Повышена отзывчивость и стабильность соединений. Исправлена точность таймеров.",
+  "version": "1.46.111",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.111/LCScalp-win64.zip",
+  "sha256": "ce930824540b17a48d1e4429cc57a0d1cf3905e454e4d91cebe7f909146efa84",
+  "notes": "Исправлено применение изменений настроек. Повышена стабильность соединений.",
   "date": "2026-09-13"
 }
