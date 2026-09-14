@@ -1,7 +1,7 @@
 {
-  "version": "1.46.121",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.121/LCScalp-win64.zip",
-  "sha256": "8ee5abd6c872af949f9af757b7c779078ac3b2596b8c45d819f2509214d9588f",
-  "notes": "Добавлен выбор периода в звуковых алертах. Служебные исправления надёжности.",
+  "version": "1.46.122",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.122/LCScalp-win64.zip",
+  "sha256": "14127d6605c066c308d3384c5e3e1a2aea83df10bb8836aa2ea070f6b75438c5",
+  "notes": "Добавлен раздел «Айсберги» для наблюдения за выбранной монетой на Aster.",
   "date": "2026-09-14"
 }
