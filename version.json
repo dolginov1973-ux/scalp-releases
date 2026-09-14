@@ -1,7 +1,7 @@
 {
-  "version": "1.46.125",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.125/LCScalp-win64.zip",
-  "sha256": "6484a6a435dccb17867e3825ae4526fd16be3784ffbed28f093908da8f25b50a",
-  "notes": "Исправлено сопоставление названий тикеров KuCoin. Обновлены форма и список правил айсбергов.",
+  "version": "1.46.126",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.126/LCScalp-win64.zip",
+  "sha256": "355823bda92c07d27dcae7afdf225e9717604904e2122608929d6024d7bd393f",
+  "notes": "Добавлено обнаружение поглощения по сделкам без видимой заявки в стакане.",
   "date": "2026-09-14"
 }
