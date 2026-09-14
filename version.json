@@ -1,7 +1,7 @@
 {
-  "version": "1.46.122",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.122/LCScalp-win64.zip",
-  "sha256": "14127d6605c066c308d3384c5e3e1a2aea83df10bb8836aa2ea070f6b75438c5",
-  "notes": "Добавлен раздел «Айсберги» для наблюдения за выбранной монетой на Aster.",
+  "version": "1.46.123",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.123/LCScalp-win64.zip",
+  "sha256": "1d752aaeb730a13c0f5cf061cc4d270a03d105c9fb0516ba54d20a77b464761a",
+  "notes": "Исправлена обработка тикеров с китайскими символами.",
   "date": "2026-09-14"
 }
