@@ -1,7 +1,7 @@
 {
-  "version": "1.46.120",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.120/LCScalp-win64.zip",
-  "sha256": "528fa61c4bd01793359817ca51d5eaf786d49aa6cc913e31c6b9327c24ad6c09",
-  "notes": "Ускорена реакция интерфейса.",
+  "version": "1.46.121",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.121/LCScalp-win64.zip",
+  "sha256": "8ee5abd6c872af949f9af757b7c779078ac3b2596b8c45d819f2509214d9588f",
+  "notes": "Добавлен выбор периода в звуковых алертах. Служебные исправления надёжности.",
   "date": "2026-09-14"
 }
