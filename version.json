@@ -1,7 +1,7 @@
 {
-  "version": "1.46.126",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.126/LCScalp-win64.zip",
-  "sha256": "355823bda92c07d27dcae7afdf225e9717604904e2122608929d6024d7bd393f",
-  "notes": "Добавлено обнаружение поглощения по сделкам без видимой заявки в стакане.",
+  "version": "1.46.128",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.128/LCScalp-win64.zip",
+  "sha256": "9ec49b0c3678e1f8883d965905592eea5eae5829a24558dac06a956778de861b",
+  "notes": "Добавлены уведомления о пропуске такта принтов, настройка интервала и все биржи в айсбергах.",
   "date": "2026-09-14"
 }
