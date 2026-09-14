@@ -1,7 +1,7 @@
 {
-  "version": "1.46.123",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.123/LCScalp-win64.zip",
-  "sha256": "1d752aaeb730a13c0f5cf061cc4d270a03d105c9fb0516ba54d20a77b464761a",
-  "notes": "Исправлена обработка тикеров с китайскими символами.",
+  "version": "1.46.125",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.125/LCScalp-win64.zip",
+  "sha256": "6484a6a435dccb17867e3825ae4526fd16be3784ffbed28f093908da8f25b50a",
+  "notes": "Исправлено сопоставление названий тикеров KuCoin. Обновлены форма и список правил айсбергов.",
   "date": "2026-09-14"
 }
