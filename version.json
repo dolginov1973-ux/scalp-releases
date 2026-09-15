@@ -1,7 +1,7 @@
 {
-  "version": "1.46.129",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.129/LCScalp-win64.zip",
-  "sha256": "1ba2d30bffe59dca24b32ae071bea7edbe7651ece221e282fc950628a4f1aa1b",
-  "notes": "Обновлены персональные настройки доступа.",
+  "version": "1.46.130",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.130/LCScalp-win64.zip",
+  "sha256": "91a49445aa815fac3615567a0836f39f86ded303bdb326d67883f46faf35b0b2",
+  "notes": "Меню алерта открывается только двойным нажатием правой кнопки мыши.",
   "date": "2026-09-15"
 }
