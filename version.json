@@ -1,7 +1,7 @@
 {
-  "version": "1.46.128",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.128/LCScalp-win64.zip",
-  "sha256": "9ec49b0c3678e1f8883d965905592eea5eae5829a24558dac06a956778de861b",
-  "notes": "Добавлены уведомления о пропуске такта принтов, настройка интервала и все биржи в айсбергах.",
-  "date": "2026-09-14"
+  "version": "1.46.129",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.129/LCScalp-win64.zip",
+  "sha256": "1ba2d30bffe59dca24b32ae071bea7edbe7651ece221e282fc950628a4f1aa1b",
+  "notes": "Обновлены персональные настройки доступа.",
+  "date": "2026-09-15"
 }
