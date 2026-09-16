@@ -1,7 +1,7 @@
 {
-  "version": "1.46.134",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.134/LCScalp-win64.zip",
-  "sha256": "eb155594e40226e2369d750bc43113c35a2b4677941c5cc0409209cb388b88b1",
-  "notes": "Убраны повторные алерты плотностей после изменения правил. Добавлены дополнительные окна часов.",
+  "version": "1.46.135",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.135/LCScalp-win64.zip",
+  "sha256": "8d3c07bd8850c71e0858d861c9067609007b4b4e5bda84769547892719b454d9",
+  "notes": "Обновлены настройки часов. Сигналы, таймер и оповещения вынесены в раздел «Ещё».",
   "date": "2026-09-16"
 }
