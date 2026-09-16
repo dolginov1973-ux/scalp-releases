@@ -1,7 +1,7 @@
 {
-  "version": "1.46.135",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.135/LCScalp-win64.zip",
-  "sha256": "8d3c07bd8850c71e0858d861c9067609007b4b4e5bda84769547892719b454d9",
-  "notes": "Обновлены настройки часов. Сигналы, таймер и оповещения вынесены в раздел «Ещё».",
+  "version": "1.46.136",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.136/LCScalp-win64.zip",
+  "sha256": "df106a463f98eefe490efa46f2db985265e656aa66c8a73a8b726af1ba1ab0d4",
+  "notes": "Исправлен прозрачный фон в настройках часов, сигналов и таймеров.",
   "date": "2026-09-16"
 }
