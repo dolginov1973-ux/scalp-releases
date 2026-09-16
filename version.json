@@ -1,7 +1,7 @@
 {
-  "version": "1.46.139",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.139/LCScalp-win64.zip",
-  "sha256": "2f410e3e05d4d256614cf76eb149c8d9ba716c8f7b83d1a3426cd0d00e44707a",
-  "notes": "Добавлена настройка верхней границы объёма источника сигнала.",
+  "version": "1.46.140",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.140/LCScalp-win64.zip",
+  "sha256": "847bd5702c6a0c3cec51a44093efaabda0e5cd104703336762a0f2428e3980fb",
+  "notes": "Исправлены уведомления о новых плотностях KuCoin, когда в стакане уже стоят другие плотности.",
   "date": "2026-09-16"
 }
