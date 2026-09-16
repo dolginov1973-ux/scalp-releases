@@ -1,7 +1,7 @@
 {
-  "version": "1.46.133",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.133/LCScalp-win64.zip",
-  "sha256": "2fd0fed4082b205d7a23942975f5fe7698512e58e9b30868b11d3c05a56d788f",
-  "notes": "Исправлена загрузка фьючерсных плотностей KuCoin.",
+  "version": "1.46.134",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.134/LCScalp-win64.zip",
+  "sha256": "eb155594e40226e2369d750bc43113c35a2b4677941c5cc0409209cb388b88b1",
+  "notes": "Убраны повторные алерты плотностей после изменения правил. Добавлены дополнительные окна часов.",
   "date": "2026-09-16"
 }
