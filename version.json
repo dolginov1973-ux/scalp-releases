@@ -1,7 +1,7 @@
 {
-  "version": "1.46.138",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.138/LCScalp-win64.zip",
-  "sha256": "7614e975c4b81d89a960d6cc4a6c2eabb9f4a70287d7c1466785a05acea319cb",
-  "notes": "Исправлен повторный учёт сделок MEXC Spot в алертах прокидов. Улучшена обработка одноразовых событий.",
+  "version": "1.46.139",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.139/LCScalp-win64.zip",
+  "sha256": "2f410e3e05d4d256614cf76eb149c8d9ba716c8f7b83d1a3426cd0d00e44707a",
+  "notes": "Добавлена настройка верхней границы объёма источника сигнала.",
   "date": "2026-09-16"
 }
