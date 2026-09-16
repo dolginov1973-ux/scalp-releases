@@ -1,7 +1,7 @@
 {
-  "version": "1.46.132",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.132/LCScalp-win64.zip",
-  "sha256": "f31b9c658eaf9162469b1005af5ccc7d47579e8cd69b7e968a2acef92f581e60",
-  "notes": "Исправлено редактирование верхней границы объёма.",
-  "date": "2026-09-15"
+  "version": "1.46.133",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.133/LCScalp-win64.zip",
+  "sha256": "2fd0fed4082b205d7a23942975f5fe7698512e58e9b30868b11d3c05a56d788f",
+  "notes": "Исправлена загрузка фьючерсных плотностей KuCoin.",
+  "date": "2026-09-16"
 }
