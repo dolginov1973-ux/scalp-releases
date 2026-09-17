@@ -1,7 +1,7 @@
 {
-  "version": "1.46.142",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.142/LCScalp-win64.zip",
-  "sha256": "79e530160a9aedf1eba92a04297782a93c0207ae0f61626d0cacd6bff5f81109",
-  "notes": "Обновлено оформление и редактирование правил.",
+  "version": "1.46.141",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.141/LCScalp-win64.zip",
+  "sha256": "ed529979cdca87176949816c0856500860868f0ee4434df54c8330bcf9c9beee",
+  "notes": "В алертах плотностей добавлен верхний предел объёма.",
   "date": "2026-09-17"
 }
