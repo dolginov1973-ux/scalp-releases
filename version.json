@@ -1,7 +1,7 @@
 {
-  "version": "1.46.144",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.144/LCScalp-win64.zip",
-  "sha256": "0d50f77c4fcc8e87cd6812b4ccd7f6860728f77bd079e5dfd3738cac63a68ae8",
-  "notes": "Обновлён нативный экран правил: улучшены шрифты и отступы, выбор биржи сделки перенесён в «Ещё». Исправлено изменение размера окна алертов правой кнопкой мыши.",
+  "version": "1.46.145",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.145/LCScalp-win64.zip",
+  "sha256": "e0962bd99ae4d3950539fc522c00a23d6293700d137818dca712b7a3018f3272",
+  "notes": "Ускорено переключение между вкладками правил. Исправлено обрезание сумм и текста «без тейка» в полях ввода.",
   "date": "2026-09-17"
 }
