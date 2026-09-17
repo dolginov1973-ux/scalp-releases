@@ -1,7 +1,7 @@
 {
-  "version": "1.46.140",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.140/LCScalp-win64.zip",
-  "sha256": "847bd5702c6a0c3cec51a44093efaabda0e5cd104703336762a0f2428e3980fb",
-  "notes": "Исправлены уведомления о новых плотностях KuCoin, когда в стакане уже стоят другие плотности.",
-  "date": "2026-09-16"
+  "version": "1.46.141",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.141/LCScalp-win64.zip",
+  "sha256": "ed529979cdca87176949816c0856500860868f0ee4434df54c8330bcf9c9beee",
+  "notes": "В алертах плотностей добавлен верхний предел объёма.",
+  "date": "2026-09-17"
 }
