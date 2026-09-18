@@ -1,7 +1,7 @@
 {
-  "version": "1.46.148",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.148/LCScalp-win64.zip",
-  "sha256": "579095ddfd895e84c6a9638d286a64ca8f5da5e2207b6f7b2f3b0beb7cb76a77",
-  "notes": "Улучшен интерфейс дополнительных инструментов: настройки и статистика вынесены в отдельное окно. Добавлено удобное обновление данных и просмотр истории.",
+  "version": "1.46.149",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.149/LCScalp-win64.zip",
+  "sha256": "52c39307e80863a058cdf531d015f14c7b37f1f93a435a87a73a4c9d44060923",
+  "notes": "Служебные исправления и более понятные подсказки в настройках правил.",
   "date": "2026-09-18"
 }
