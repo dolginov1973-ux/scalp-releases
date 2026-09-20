@@ -1,7 +1,7 @@
 {
-  "version": "1.46.151",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.151/LCScalp-win64.zip",
-  "sha256": "93d8489157f9ab8083dcedb7fc34b7ed1b1de2e77527e86b70a75483a72a1458",
-  "notes": "Shift+клик по прокиду снова берёт в слежку монеты с коротким именем, например G. Служебные исправления.",
+  "version": "1.46.152",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.152/LCScalp-win64.zip",
+  "sha256": "34c2362cfce355e004e4ca74f13f51d63bc69a93c20f74617132763e201f938e",
+  "notes": "Служебные исправления.",
   "date": "2026-09-20"
 }
