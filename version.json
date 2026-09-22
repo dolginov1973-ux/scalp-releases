@@ -1,7 +1,7 @@
 {
-  "version": "1.46.167",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.167/LCScalp-win64.zip",
-  "sha256": "7650dcc27769eaf22103b46a143d0ffef77b28c89750e9211cf2e92d98dec5dd",
-  "notes": "Алерт плотности по монетам с нелатинским тикером (например, 龙虾) снова показывает сторону стены и расстояние до цены.",
+  "version": "1.46.168",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.168/LCScalp-win64.zip",
+  "sha256": "d66493b846555dcf6f66cbbcaf3156744f8fc14868d81c44ba535732d6f57c3d",
+  "notes": "«Скринер NATR»: новая вкладка «Рейндж 5м» — та же таблица, но вместо NATR рейндж за 1 и за 5 минут ((максимум − минимум) / минимум), сортировка по рейнджу 5м. Пороги 🔥 для рейнджа — в настройках скринера.",
   "date": "2026-09-21"
 }
