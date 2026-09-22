@@ -1,7 +1,7 @@
 {
-  "version": "1.46.173",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.173/LCScalp-win64.zip",
-  "sha256": "467f89cf1bff9674c2986491e42ae4c0c858cb68e30c3bc6c282edd2967d63b7",
-  "notes": "Новости приходят быстрее: программа держит одно соединение с лентой и получает новость сразу, как только она появилась, — раньше лента опрашивалась раз в 5 секунд и новость могла идти до 10–20 секунд. В журнал программы пишется, сколько шла каждая новость.",
+  "version": "1.46.174",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.174/LCScalp-win64.zip",
+  "sha256": "f2f015d997ff46dbf22ba37f37d517b83c34173a1059f28bb86de458f7de4fe5",
+  "notes": "Исправления и улучшения.",
   "date": "2026-09-22"
 }
