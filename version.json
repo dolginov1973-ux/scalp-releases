@@ -1,7 +1,7 @@
 {
-  "version": "1.46.166",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.166/LCScalp-win64.zip",
-  "sha256": "d0f7e7631103aff1a183297bfbda145d7b6461f4a5c79b9752855a13faa1d71c",
-  "notes": "«Спредовик»: алерт в ленте теперь в две строки — в первой кто и что, во второй ритм и объём; лента больше не растягивается в ширину.",
+  "version": "1.46.167",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.167/LCScalp-win64.zip",
+  "sha256": "7650dcc27769eaf22103b46a143d0ffef77b28c89750e9211cf2e92d98dec5dd",
+  "notes": "Алерт плотности по монетам с нелатинским тикером (например, 龙虾) снова показывает сторону стены и расстояние до цены.",
   "date": "2026-09-21"
 }
