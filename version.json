@@ -1,7 +1,7 @@
 {
-  "version": "1.46.188",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.188/LCScalp-win64.zip",
-  "sha256": "35be3b7d8eca92bc994d18c33cbf5fb992270f237eca8909bc6e4a0429b428a0",
-  "notes": "Улучшена диагностика установки.",
+  "version": "1.46.189",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.189/LCScalp-win64.zip",
+  "sha256": "a0f94cafda17bb2fc548a8d34391da1b4460d1c33aef76753c7a0591b71f7b53",
+  "notes": "Переделан раздел записи экрана: настройки сгруппированы, видны состояние записи и нагрузка.",
   "date": "2026-09-24"
 }
