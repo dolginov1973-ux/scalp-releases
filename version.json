@@ -1,7 +1,7 @@
 {
-  "version": "1.46.190",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.190/LCScalp-win64.zip",
-  "sha256": "122b582dbbe84b5e7a9209a99742d1f9391c76c51f6d6f17beda0c703901811c",
-  "notes": "Запись экрана: обновлён интерфейс настроек и добавлен выбор запаса времени для клипов сделок. Клик по новости открывает стакан без копирования тикера.",
+  "version": "1.46.191",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.191/LCScalp-win64.zip",
+  "sha256": "63541cb1df65ed709df19cb63022aaac0a93c18bdce35098ddd405c0b71f04f2",
+  "notes": "Улучшены связь с дневником и загрузка видео сделок.",
   "date": "2026-09-24"
 }
