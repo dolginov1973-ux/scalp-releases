@@ -1,7 +1,7 @@
 {
-  "version": "1.46.191",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.191/LCScalp-win64.zip",
-  "sha256": "63541cb1df65ed709df19cb63022aaac0a93c18bdce35098ddd405c0b71f04f2",
-  "notes": "Улучшены связь с дневником и загрузка видео сделок.",
+  "version": "1.46.192",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.192/LCScalp-win64.zip",
+  "sha256": "e89665ede8d3de44055552942a8d47fdcd6f84912623b6a3f2648bca972abaf0",
+  "notes": "Служебные исправления надёжности.",
   "date": "2026-09-24"
 }
