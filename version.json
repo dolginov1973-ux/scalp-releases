@@ -1,7 +1,7 @@
 {
-  "version": "1.46.183",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.183/LCScalp-win64.zip",
-  "sha256": "88308e638838949a5679d25eaf8830a21eba9dd78db6d7f8f8ce25c5e2cad5bd",
-  "notes": "Улучшена запись сделок и воспроизведение видео в дневнике.",
-  "date": "2026-09-23"
+  "version": "1.46.184",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.184/LCScalp-win64.zip",
+  "sha256": "bcf5ee5f7d06cab90b276afbb43711a8a61942f34e86856ad23dcb8d51f15e92",
+  "notes": "Скальп привязывается к аккаунту дневника одноразовым кодом. YouTube подключается в дневнике; видео сделок сохраняется по данным подключённого Binance-счёта. Исправлено отображение правил «Аптик OKX», высота стакана «Снятия» и объединение исполнений Gate Spot для прокидов.",
+  "date": "2026-09-24"
 }
