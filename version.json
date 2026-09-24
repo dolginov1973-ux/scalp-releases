@@ -1,7 +1,7 @@
 {
-  "version": "1.46.186",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.186/LCScalp-win64.zip",
-  "sha256": "4e995791a6f30a4ae8c3f2c87b0c3c8e1ebe09e3806a2f6f41d6a788bd632979",
-  "notes": "Улучшены надёжность подключения и управление режимом исполнения на этом компьютере.",
+  "version": "1.46.187",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.46.187/LCScalp-win64.zip",
+  "sha256": "e607280df2ca47072eab51aba397655568438fff4eabdbd2fa7a1307611dd922",
+  "notes": "Восстановлена красная и зелёная анимация переключения звука двойным кликом. Клик по алертам снова открывает тикер при отключённых новостях.",
   "date": "2026-09-24"
 }
