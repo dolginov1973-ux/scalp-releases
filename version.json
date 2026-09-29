@@ -1,7 +1,7 @@
 {
-  "version": "1.47.6",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.6/LCScalp-win64.zip",
-  "sha256": "0904ddd5e95017a988cd3b9c33c1b9deca9885a6c715164491743a420d33957b",
-  "notes": "Служебные исправления надёжности подключения и сообщений об ошибках.",
+  "version": "1.47.7",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.7/LCScalp-win64.zip",
+  "sha256": "5af53889a769c1d2cefc3ce365dd05b619a3855ef4766803d754438052334eb8",
+  "notes": "Добавлена настройка скачивания обновлений через подключённый прокси с прямым подключением при его недоступности.",
   "date": "2026-09-29"
 }
