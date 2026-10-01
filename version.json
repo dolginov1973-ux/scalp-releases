@@ -1,7 +1,7 @@
 {
-  "version": "1.47.8",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.8/LCScalp-win64.zip",
-  "sha256": "fb3dd2556b3ba1108f2afe937b17615d1674c027dca42287d4856e4c6ecfa13c",
-  "notes": "Добавлены средства обслуживания и исправления надёжности подключения.",
-  "date": "2026-09-29"
+  "version": "1.47.9",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.9/LCScalp-win64.zip",
+  "sha256": "bf2c752a865b1dba3d63a1420a3f62f6063a811e59ca459ac1bdbf30f0b5e8f8",
+  "notes": "Исправлены сохранение настроек и лишние окна. Улучшена стабильность прокидов Bitget, загрузка стакана Gate и работа записи видео. Добавлен Lighter в плотности.",
+  "date": "2026-10-01"
 }
