@@ -1,7 +1,7 @@
 {
-  "version": "1.47.9",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.9/LCScalp-win64.zip",
-  "sha256": "bf2c752a865b1dba3d63a1420a3f62f6063a811e59ca459ac1bdbf30f0b5e8f8",
-  "notes": "Исправлены сохранение настроек и лишние окна. Улучшена стабильность прокидов Bitget, загрузка стакана Gate и работа записи видео. Добавлен Lighter в плотности.",
-  "date": "2026-10-01"
+  "version": "1.47.10",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.10/LCScalp-win64.zip",
+  "sha256": "5d152ed763edadebc26912dd0d2a606e8fc1767537f71c360894ff19564cee0b",
+  "notes": "Горячие клавиши отображаются английскими буквами независимо от раскладки. Исправлено распознавание тикеров в новостях о листингах, включая Talus (US).",
+  "date": "2026-10-02"
 }
