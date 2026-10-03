@@ -1,7 +1,7 @@
 {
-  "version": "1.47.11",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.11/LCScalp-win64.zip",
-  "sha256": "7f2e98e4ab756c5854f319ac3af054e3804b04cc002eeb6915840a785883a410",
-  "notes": "В звуковых алертах добавлен выбор «Женский — русский» с сохранением настройки и проверкой озвучки. В списке голосов появились подписи «женский» и «мужской».",
-  "date": "2026-10-02"
+  "version": "1.47.12",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.12/LCScalp-win64.zip",
+  "sha256": "0202afd43c3ac49ba14de9ed321c88b6404b91f1b11bade89df3fd0872aa728f",
+  "notes": "Новый раздел анализа ленты сделок. Ролики сделок: выбранная папка сохраняется сразу, длинные ролики дожидаются обработки YouTube, очередь загрузки устойчива к перемещённым файлам.",
+  "date": "2026-10-03"
 }
