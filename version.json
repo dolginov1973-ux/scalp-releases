@@ -1,7 +1,7 @@
 {
-  "version": "1.47.17",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.17/LCScalp-win64.zip",
-  "sha256": "f0cdc29ac030e9527517e7ae8194ccb159f7bb1b50583079e064e54cee270a58",
-  "notes": "Часы: голос «Анжела» обновлён — все фразы одним голосом, включая алгосик и отсчёт 3-2-1.",
+  "version": "1.47.18",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.18/LCScalp-win64.zip",
+  "sha256": "e78ae81786744e225c49762f8c03d2cd2d4fd31da169b5697035ad6407777b79",
+  "notes": "Новости: галочка «Автооткрытие» — тикер новости сразу открывается в терминалах; токены бирж (OKB, BGB, GT, KCS и другие) открываются на своей бирже; без галочки строка новости больше не открывает в терминалах лишний тикер.",
   "date": "2026-10-03"
 }
