@@ -1,7 +1,7 @@
 {
-  "version": "1.47.14",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.14/LCScalp-win64.zip",
-  "sha256": "f16102a74bbae78cd4d8266db56526dfe09ced4e6342d54056b25ec4231e6a26",
-  "notes": "Звук: первый алерт после тишины больше не звучит приглушённо или обрывком на устройствах, которые засыпают в тишине (динамики монитора по HDMI/DisplayPort, часть USB- и Bluetooth-гарнитур).",
+  "version": "1.47.15",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.15/LCScalp-win64.zip",
+  "sha256": "d4182484666dfa2a0d07f09054c77595bd51546c46a1449576b6da28a34d5edd",
+  "notes": "Часы: голос «Анжела» для озвучки свечей и фандинга — выбирается в «Оповещениях о свечах и фандинге» → «Голос озвучки».",
   "date": "2026-10-03"
 }
