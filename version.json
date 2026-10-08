@@ -1,7 +1,7 @@
 {
-  "version": "1.47.22",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.22/LCScalp-win64.zip",
-  "sha256": "ce1a0ac2b8ad2526508f5ee834485cef839017757b78244c555c7b73a7fc6043",
-  "notes": "Исправлен сброс счётчика прокидов при повторном включении режима «Одна сделка». Повышена надёжность обработки быстрых переключений.",
+  "version": "1.47.23",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.23/LCScalp-win64.zip",
+  "sha256": "1f95a2a1793783155b2eca22f9604eaa56d3b929721d85fa35d2e46c2db5598e",
+  "notes": "Видео сделок загружаются только в день сделки. Старые записи остаются на компьютере и не расходуют квоту YouTube.",
   "date": "2026-10-08"
 }
