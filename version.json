@@ -1,7 +1,7 @@
 {
-  "version": "1.47.19",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.19/LCScalp-win64.zip",
-  "sha256": "58a5f247afc2ef8940552e71454ebc2403d19f52492414b949e50dbad34f838a",
-  "notes": "Улучшено отображение графика и ленты. Доработаны фильтры, настройки условий и управление списками через контекстное меню.",
-  "date": "2026-10-06"
+  "version": "1.47.20",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.20/LCScalp-win64.zip",
+  "sha256": "5b8108cc801616354254870b56765d5c618e4fe4e61bb3488968c549b34065c9",
+  "notes": "Добавлена Kraken Spot/Futures для рыночных данных. Новая карта плотностей в отдельном окне: фильтры, объёмы заявок и расстояние до цены. Расширены настройки условий и ограничения работы.",
+  "date": "2026-10-08"
 }
