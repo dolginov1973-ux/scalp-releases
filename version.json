@@ -1,7 +1,7 @@
 {
-  "version": "1.47.23",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.23/LCScalp-win64.zip",
-  "sha256": "1f95a2a1793783155b2eca22f9604eaa56d3b929721d85fa35d2e46c2db5598e",
-  "notes": "Видео сделок загружаются только в день сделки. Старые записи остаются на компьютере и не расходуют квоту YouTube.",
-  "date": "2026-10-08"
+  "version": "1.47.24",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.24/LCScalp-win64.zip",
+  "sha256": "941b8dbe6c9f4d3e219169255ce14625e3e3426f3bbc5ba462529156b4bf98a4",
+  "notes": "В поиске серий добавлены выбор нескольких бирж и ограничение максимального такта в секундах. Настройки сохраняются и учитываются при автооткрытии.",
+  "date": "2026-10-09"
 }
