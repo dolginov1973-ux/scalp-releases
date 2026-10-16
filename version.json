@@ -1,7 +1,7 @@
 {
-  "version": "1.47.26",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.26/LCScalp-win64.zip",
-  "sha256": "64130853d1728e4a6ea552b5fb31081748bb511873dac18a358c6ff06adff7d9",
-  "notes": "Собственный источник листингов и делистингов Upbit, Binance и Bithumb. Новости Telegram можно отключить отдельно. Ускорена доставка готовых объявлений, добавлены замеры задержки до отрисовки алерта.",
+  "version": "1.47.27",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.27/LCScalp-win64.zip",
+  "sha256": "df927a3d04f08fbfe1e2cf7a4f1563c8ea5a1e2e4db24e1e125f7d71bbba75ea",
+  "notes": "Лонговые и шортовые правила прокидов сохраняются независимо, включая объём и звук. T + клик по прокиду открывает таймер до следующего принта; такт можно определить автоматически или задать вручную.",
   "date": "2026-10-16"
 }
