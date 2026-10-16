@@ -1,7 +1,7 @@
 {
-  "version": "1.47.25",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.25/LCScalp-win64.zip",
-  "sha256": "914585ced0f9c9f14b9f662870f72283e549f43ecc16eef0e2062cb3c33a98b1",
-  "notes": "В поиске серий добавлены диапазон такта в секундах и фильтры разброса объёма и интервалов в процентах. Показан фактический разброс серии. Параметры сохраняются и учитываются при автооткрытии.",
-  "date": "2026-10-10"
+  "version": "1.47.26",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.26/LCScalp-win64.zip",
+  "sha256": "64130853d1728e4a6ea552b5fb31081748bb511873dac18a358c6ff06adff7d9",
+  "notes": "Собственный источник листингов и делистингов Upbit, Binance и Bithumb. Новости Telegram можно отключить отдельно. Ускорена доставка готовых объявлений, добавлены замеры задержки до отрисовки алерта.",
+  "date": "2026-10-16"
 }
