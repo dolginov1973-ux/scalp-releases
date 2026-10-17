@@ -1,7 +1,7 @@
 {
-  "version": "1.47.29",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.29/LCScalp-win64.zip",
-  "sha256": "4625489cd6c14e72fca60684c8ab254874b0c5d6ff869b7d6433321ef2a9c801",
-  "notes": "Расширены настройки частичной фиксации прибыли. Повышена скорость записи журнала.",
+  "version": "1.47.30",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.30/LCScalp-win64.zip",
+  "sha256": "d83d4bbe6e71e67f2880fb23c0f21413093daa151f6815dc4d70ce0ef2388d8d",
+  "notes": "Расширена поддержка официальных объявлений. Обновлены пояснения в настройках.",
   "date": "2026-10-17"
 }
