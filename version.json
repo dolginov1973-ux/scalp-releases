@@ -1,7 +1,7 @@
 {
-  "version": "1.47.28",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.28/LCScalp-win64.zip",
-  "sha256": "dd1ad39cef5395bec8987ade464f81e40ef0f6baaeced5abbfa7213d59c41d2e",
-  "notes": "Новые настройки официальных событий листинга и делистинга USDT. Служебные исправления надёжности.",
+  "version": "1.47.29",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.29/LCScalp-win64.zip",
+  "sha256": "4625489cd6c14e72fca60684c8ab254874b0c5d6ff869b7d6433321ef2a9c801",
+  "notes": "Расширены настройки частичной фиксации прибыли. Повышена скорость записи журнала.",
   "date": "2026-10-17"
 }
