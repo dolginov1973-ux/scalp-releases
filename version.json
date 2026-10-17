@@ -1,7 +1,7 @@
 {
-  "version": "1.47.27",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.27/LCScalp-win64.zip",
-  "sha256": "df927a3d04f08fbfe1e2cf7a4f1563c8ea5a1e2e4db24e1e125f7d71bbba75ea",
-  "notes": "Лонговые и шортовые правила прокидов сохраняются независимо, включая объём и звук. T + клик по прокиду открывает таймер до следующего принта; такт можно определить автоматически или задать вручную.",
-  "date": "2026-10-16"
+  "version": "1.47.28",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.28/LCScalp-win64.zip",
+  "sha256": "dd1ad39cef5395bec8987ade464f81e40ef0f6baaeced5abbfa7213d59c41d2e",
+  "notes": "Новые настройки официальных событий листинга и делистинга USDT. Служебные исправления надёжности.",
+  "date": "2026-10-17"
 }
