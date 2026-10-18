@@ -1,7 +1,7 @@
 {
-  "version": "1.47.35",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.35/LCScalp-win64.zip",
-  "sha256": "df8fbf2e784fded70a92279a007ee8b48fcd386fcaad268f84dd67f4a4e71a19",
-  "notes": "Ускорено отображение служебных сообщений. Устранено ожидание обновления журнала и повторные уведомления.",
+  "version": "1.47.36",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.36/LCScalp-win64.zip",
+  "sha256": "03f7edd7b401f8e7550238c75b564263ec24b4438a64654197fba70fd173f63f",
+  "notes": "Добавлена полная запись экрана на весь день: начало и остановка, автозапуск по желанию, сохранение видео без звука часовыми файлами MKV. Записи сохраняются в папке Recordings.",
   "date": "2026-10-18"
 }
