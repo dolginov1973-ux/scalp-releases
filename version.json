@@ -1,7 +1,7 @@
 {
-  "version": "1.47.30",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.30/LCScalp-win64.zip",
-  "sha256": "d83d4bbe6e71e67f2880fb23c0f21413093daa151f6815dc4d70ce0ef2388d8d",
-  "notes": "Расширена поддержка официальных объявлений. Обновлены пояснения в настройках.",
-  "date": "2026-10-17"
+  "version": "1.47.31",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.31/LCScalp-win64.zip",
+  "sha256": "697fa1e789e745b24e2d786d56f30cb50fb4bf15d5052ecb17b418a62af19045",
+  "notes": "Исправлено определение стороны принтов Binance Alpha. Исправлены пропуски при постепенном наборе плотности до заданного объёма.",
+  "date": "2026-10-18"
 }
