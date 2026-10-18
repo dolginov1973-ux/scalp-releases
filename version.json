@@ -1,7 +1,7 @@
 {
-  "version": "1.47.31",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.31/LCScalp-win64.zip",
-  "sha256": "697fa1e789e745b24e2d786d56f30cb50fb4bf15d5052ecb17b418a62af19045",
-  "notes": "Исправлено определение стороны принтов Binance Alpha. Исправлены пропуски при постепенном наборе плотности до заданного объёма.",
+  "version": "1.47.32",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.32/LCScalp-win64.zip",
+  "sha256": "88838cc7000087875e06ec4c7f38bf36025ea5ad99f8ca49d8d45749841c221a",
+  "notes": "Исправлены ложные предупреждения о потере связи при задержке загрузки журнала. Настоящие сбои соединения продолжают отображаться.",
   "date": "2026-10-18"
 }
