@@ -1,7 +1,7 @@
 {
-  "version": "1.47.34",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.34/LCScalp-win64.zip",
-  "sha256": "1bc321cc05061f624456a4e59dfd2d7c592a880cbaa6b9dc1f4b53945fb6ed7f",
-  "notes": "Ускорено отображение тикера после подтверждения исполнения. Устранены повторные уведомления при обновлении журнала.",
+  "version": "1.47.35",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.35/LCScalp-win64.zip",
+  "sha256": "df8fbf2e784fded70a92279a007ee8b48fcd386fcaad268f84dd67f4a4e71a19",
+  "notes": "Ускорено отображение служебных сообщений. Устранено ожидание обновления журнала и повторные уведомления.",
   "date": "2026-10-18"
 }
