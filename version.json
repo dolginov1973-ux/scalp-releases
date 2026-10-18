@@ -1,7 +1,7 @@
 {
-  "version": "1.47.32",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.32/LCScalp-win64.zip",
-  "sha256": "88838cc7000087875e06ec4c7f38bf36025ea5ad99f8ca49d8d45749841c221a",
-  "notes": "Исправлены ложные предупреждения о потере связи при задержке загрузки журнала. Настоящие сбои соединения продолжают отображаться.",
+  "version": "1.47.33",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.33/LCScalp-win64.zip",
+  "sha256": "14027622702f4218f571fb1cf413280ce712d8a0df5dc33a0e260124dc5f6f58",
+  "notes": "Ускорено получение состояния после исполнения. Исправлено повторное включение горячей клавишей после завершения одной операции.",
   "date": "2026-10-18"
 }
