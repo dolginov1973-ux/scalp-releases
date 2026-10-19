@@ -1,7 +1,7 @@
 {
-  "version": "1.47.39",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.39/LCScalp-win64.zip",
-  "sha256": "c9c4db0312e193831e4cac026ddcc2524777f433b7e6cd43b0a1ecf95c7d668b",
-  "notes": "Улучшения доставки новостей и отображения состояния источников. Служебные исправления надёжности.\n",
+  "version": "1.47.40",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.40/LCScalp-win64.zip",
+  "sha256": "a2fdb0d502f497868736de5aadf756401c723b35c6de1e8c998050c00043cdff",
+  "notes": "Алерты листингов и делистингов через Coin Listing, защита от повторов и замеры задержки доставки.",
   "date": "2026-10-19"
 }
