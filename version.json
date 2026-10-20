@@ -1,7 +1,7 @@
 {
-  "version": "1.47.41",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.41/LCScalp-win64.zip",
-  "sha256": "b36f17126c165cccf2f22bc4ce457e3657944c9cd976a5246d6cde44b8c84a49",
-  "notes": "Улучшена скорость обработки новостей, очищены подписи, исправлены статусы и смещение формы при добавлении тикера.",
+  "version": "1.47.42",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.42/LCScalp-win64.zip",
+  "sha256": "f0f713d08a0b4f49137aec2b5181961c781841f15bebc6856eb28e1b2119b440",
+  "notes": "Тейк перед плотностью Aster: отслеживание цены источника по WebSocket и закрытие выбранной части входа на Binance по рынку.",
   "date": "2026-10-20"
 }
