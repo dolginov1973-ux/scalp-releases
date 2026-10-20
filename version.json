@@ -1,7 +1,7 @@
 {
-  "version": "1.47.42",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.42/LCScalp-win64.zip",
-  "sha256": "f0f713d08a0b4f49137aec2b5181961c781841f15bebc6856eb28e1b2119b440",
-  "notes": "Тейк перед плотностью Aster: отслеживание цены источника по WebSocket и закрытие выбранной части входа на Binance по рынку.",
+  "version": "1.47.43",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.43/LCScalp-win64.zip",
+  "sha256": "6f12eae849f4325114e91879ad96a65cfc4f7b92c07ebb0708768b86bc88375b",
+  "notes": "Тейк перед плотностью для всех доступных бирж и рынков: уровень и шаг цены берутся с биржи источника; при достижении уровня выбранная часть входа закрывается на бирже сделки — Binance, Bybit или OKX.",
   "date": "2026-10-20"
 }
