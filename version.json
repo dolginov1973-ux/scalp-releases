@@ -1,7 +1,7 @@
 {
-  "version": "1.47.66",
-  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.66/LCScalp-win64.zip",
-  "sha256": "82b211c5d2804a71b8c30d552d606367d625896ee76c7a3d29e9f25cac7ede98",
+  "version": "1.47.67",
+  "url": "https://github.com/dolginov1973-ux/scalp-releases/releases/download/v1.47.67/LCScalp-win64.zip",
+  "sha256": "1482e168f4480ff7a53fa7dd4da77cc04be4114d0510ce8848f09e725dcf0208",
   "notes": "фикс лагов",
   "date": "2026-11-18"
 }
